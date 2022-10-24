@@ -13,11 +13,6 @@ share-title: "Byeol Lux | Photo"
 <center><img src="/photo/img/canlab_collage_2022.jpg" width="800" align="center" /></center>
 <br>
 
-<span style="font-size: 1rem !important; color: #555;"> When my FIRST first-author paper comes out in 5 years! 😆 Check my recent publications in <a href="/publication"><b>here</b></a> </span>
-<br><br>
-<center><img src="/photo/img/2022_first_publication.jpg" width="800" align="center" /></center>
-<br>
-
 <span style="font-size: 1.5rem !important; color: #BD0026;"><b>2021</b></span>
 
 <span style="font-size: 1rem !important; color: #555;"> First Fall and Winter at Dartmouth, New Hampshire! 🍁 </span>
