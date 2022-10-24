@@ -1,7 +1,7 @@
 ---
 layout: post
-title: When SELF comes to wandering mind
-subtitle: My first project is published in Science Advances in August 2022
+title: What happens to brain when SELF comes to wandering mind
+subtitle: My first project is published in Science Advances
 thumbnail-img: /assets/img/thumbnail_scienceadvances.jpg
 cover-img: /assets/img/cover_img_scienceadvances.jpg
 share-img: /assets/img/cover_img_scienceadvances.jpg
