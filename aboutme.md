@@ -13,7 +13,7 @@ css: "/assets/css/aboutme.css"
 <span class="fa fa-star about-icon"></span>
 Byeol's <a href="/assets/docs/CV_byeol_public.pdf"><strong>CV</strong></a> | 
 <a href="https://neurotree.org/neurotree/tree.php?pid=743705"><strong>Neurotree</strong></a>  | 
-<a href="https://scholar.google.co.kr/citations?user=m5BU6e0AAAAJ&hl=en&authuser=6&oi=ao"><strong>Google Scholar</strong></a>
+<a href="https://scholar.google.co.kr/citations?user=jyd6OWwAAAAJ&hl=en"><strong>Google Scholar</strong></a>
 </p>
 
 
