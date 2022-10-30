@@ -15,7 +15,7 @@ share-title: "Byeol Lux | Publication"
 <h2><span style="font-size: 1.5rem !important; color: #548733;">2022</span></h2>
 
 <p id="2022_Kim">When self comes to a wandering mind: Brain representations and affective dynamics of spontaneous thought 
-<br><span style="font-size: 0.85rem !important; color: #555;"> <b>Byeol Kim</b>, Jessica R. Andrews-Hanna, Jihoon Han, Eunjin Lee, Choong-Wan Woo. (2022). <i>Science Advances</i>, 8 (35), eabn8616 (1-16). https://doi.org/110.1126/sciadv.abn8616; published: Aug 31 2022 
+<br><span style="font-size: 0.85rem !important; color: #555;"> <b>Byeol Kim</b>, Jessica R. Andrews-Hanna, Jihoon Han, Eunjin Lee, Choong-Wan Woo. (2022). <i>Science Advances</i>, 8 (35), eabn8616 (1-16). https://doi.org/10.1126/sciadv.abn8616; published: Aug 31 2022 
 <a href="https://www.science.org/doi/10.1126/sciadv.abn8616">Science Advances</a> | <a href="/pdfs/2022_Kim.pdf">PDF</a> | <a href="/pdfs/2022_Kim_sm.pdf">Supplementary Materials</a> | <a href="https://zenodo.org/record/6825023">Code</a></span><br>  
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1126/sciadv.abn8616" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
 <span class="__dimensions_badge_embed__" data-doi="10.1126/sciadv.abn8616" data-style="small_circle" style="display: inline-block;"></span></p>
