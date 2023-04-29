@@ -29,7 +29,7 @@ B.S. in astronomy and B.A. psychology at <a href="https://www.yonsei.ac.kr/en_sc
 
 <p class="about-text">
 <span class="fa fa-laptop-code about-icon"></span> Programming skills
-<ul><li> Language :  Matlab (proficient), Python (intermediate), Unix (Basic), HTML (basic)</li>
+<ul><li> Language :  Matlab (proficient), Python (intermediate), Unix (basic), HTML (basic)</li>
 <li> fMRI neuroimaging analysis tools :  fMRIprep, tedana, afni, SPM, <a href="https://canlab.github.io/">CANlab tools</a>, FSL</li>
 <li> Experimental psychology tools :  Psychtoolbox, PsychoPy </li>
 <li> Statistics tools :  R, SPSS </li></ul>
@@ -37,9 +37,9 @@ B.S. in astronomy and B.A. psychology at <a href="https://www.yonsei.ac.kr/en_sc
 
 <p class="about-text">
 <span class="fa fa-globe-americas about-icon"></span>
-Born, grew up, and got Bachelor's degree in Seoul, South Korea<br>
-Got Master's degree in Suwon, South Korea<br>
-Doing Ph.D. at Hanover, New Hampshire, USA.
+Born, grew up, and earned Bachelor's degree in Seoul, South Korea<br>
+Earned Master's degree in Suwon, South Korea<br>
+Currently pursuing Ph.D. in Hanover, New Hampshire, USA.
 </p>
 
 
