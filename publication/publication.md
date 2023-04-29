@@ -27,28 +27,31 @@ share-title: "Byeol Lux | Publication"
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1037/xge0001096" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
 <span class="__dimensions_badge_embed__" data-doi="10.1037/xge0001096" data-style="small_circle" style="display: inline-block;"></span></p>
 
-<h2><span style="font-size: 1.5rem !important; color: #8ec669;">Under review</span></h2>
+<h2><span style="font-size: 1.5rem !important; color: #8ec669;">In press</span></h2>
 
 A Dynamic Functional Connectivity Marker for Rumination
 <br><span style="font-size: 0.85rem !important; color: #555;">
-Jung-Woo Kim, Jessica R. Andrews-Hanna, Hedwig Eisenbarth, <b>Byeol Lux</b>, Hongji Kim, Elizabeth A. Reynolds Losin, Martin Lindquist, Tor D. Wager, Choong-Wan Woo, 
-<i>under review as of Apr 2022</i></span>
+Jung-Woo Kim, Jessica R. Andrews-Hanna, Hedwig Eisenbarth, <b>Byeol Kim Lux</b>, Hong Ji Kim, Elizabeth A. Reynolds Losin, Martin Lindquist, Tor D. Wager, Choong-Wan Woo, 
+<i>In press as of Apr 2023</i></span>
 
-
-<h2><span style="font-size: 1.5rem !important; color: #8ec669;">In preparation</span></h2>
-
-
-(Working title) Free Association-Based Dynamic Signature of Trait Affectivity
+<h2><span style="font-size: 1.5rem !important; color: #8ec669;">Under review</span></h2>
+Spontaneous Thought Dynamics as a Signature of Positive and Negative Affectivity
 <br><span style="font-size: 0.85rem !important; color: #555;">
-Eunjin Lee, <b>Byeol Lux<sup>m,c</sup></b>, Jihoon Han, Choong-Wan Woo, <i>in prep</i></span>
+Eunjin Lee, <b>Byeol Kim Lux<sup>m,c</sup></b>, Jihoon Han, Sung-Ha Lee, Suhwan Gim, Incheol Choi, Choong-Wan Woo, <i>in prep</i></span>
  
+<h2><span style="font-size: 1.5rem !important; color: #8ec669;">In preparation</span></h2>
+Getting Personal: Brain Decoding of Spontaneous Thought Using Personal Narratives
+<br><span style="font-size: 0.85rem !important; color: #555;">
+Hong Ji Kim, <b>Byeol Kim Lux</b>, Emily Finn, Choong-Wan Woo, <i>in prep</i></span>
+
+Bodily maps of spontaneous thought
+<br><span style="font-size: 0.85rem !important; color: #555;">
+Hyemin Shin, <b>Byeol Kim Lux<sup>m, c</sup></b>, Hong Ji Kim, Choong-Wan Woo, <i>in prep</i></span>
+
 (Working title) Understanding the spontaneous mind with natural language processing and network modeling
 <br><span style="font-size: 0.85rem !important; color: #555;">
-Jihoon Han, <b>Byeol Lux<sup>m, c</sup></b>, Eunjin Lee, Yong-Seok Yoo, Choong-Wan Woo, <i>in prep</i></span>
+Jihoon Han, <b>Byeol Kim Lux<sup>m,c</sup></b>, Eunjin Lee, Yong-Seok Yoo, Choong-Wan Woo, <i>in prep</i></span>
 
-(Working title) Getting Personal: Brain Decoding of Valence and Self-Relevance of Personal Thoughts using Personal Stories
-<br><span style="font-size: 0.85rem !important; color: #555;">
-Hong-Ji Kim, <b>Byeol Lux</b>, Choong-Wan Woo, <i>in prep</i></span>
 
 
 
