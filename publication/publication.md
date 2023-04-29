@@ -43,7 +43,7 @@ Eunjin Lee, <b>Byeol Kim Lux<sup>m,c</sup></b>, Jihoon Han, Sung-Ha Lee, Suhwan 
 <h2><span style="font-size: 1.5rem !important; color: #8ec669;">In preparation</span></h2>
 Getting Personal: Brain Decoding of Spontaneous Thought Using Personal Narratives
 <br><span style="font-size: 0.85rem !important; color: #555;">
-Hong Ji Kim, <b>Byeol Kim Lux</b>, Emily Finn, Choong-Wan Woo, <i>in prep</i></span>
+Hong Ji Kim, <b>Byeol Kim Lux</b>, Emily Finn, Choong-Wan Woo, <i>submitted</i></span>
 
 Bodily maps of spontaneous thought
 <br><span style="font-size: 0.85rem !important; color: #555;">
