@@ -37,7 +37,7 @@ B.S. in astronomy and B.A. psychology at <a href="https://www.yonsei.ac.kr/en_sc
 
 <p class="about-text">
 <span class="fa fa-globe-americas about-icon"></span>
-Born, grew up, and earned Bachelor's degree in Seoul, South Korea<br>
+Born, raised, and earned Bachelor's degree in Seoul, South Korea<br>
 Earned Master's degree in Suwon, South Korea<br>
 Currently pursuing Ph.D. in Hanover, New Hampshire, USA.
 </p>
