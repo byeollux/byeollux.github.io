@@ -19,7 +19,7 @@ Byeol's <a href="/assets/docs/CV_byeol_public.pdf"><strong>CV</strong></a> |
 
 <p class="about-text">
 <span class="fa fa-brain about-icon"></span>
-Currently, a Ph.D. student of <a href="https://sites.dartmouth.edu/canlab">Cognitive and Affective Neuroscience lab</a> led by <a href="https://scholar.google.co.kr/citations?user=OZHkBcYAAAAJ&hl=en&oi=ao">Dr. Tor D. Wager</a>, in <a href="https://pbs.dartmouth.edu/">Psychological and Brain Sciences program</a>, at <a href="https://home.dartmouth.edu/">Dartmouth College</a>
+Currently, a Ph.D. student in the <a href="https://sites.dartmouth.edu/canlab">Cognitive and Affective Neuroscience lab</a> led by <a href="https://scholar.google.co.kr/citations?user=OZHkBcYAAAAJ&hl=en&oi=ao">Dr. Tor D. Wager</a>, at <a href="https://pbs.dartmouth.edu/">Psychological and Brain Sciences program</a>, <a href="https://home.dartmouth.edu/">Dartmouth College</a>
 </p>
 
 <p class="about-text">
