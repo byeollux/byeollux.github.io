@@ -12,6 +12,13 @@ share-title: "Byeol Lux | Publication"
 <sup>m</sup> mentoring project
 <br><sup>c</sup> co-first author  </span>
 
+<h2><span style="font-size: 1.5rem !important; color: #548733;">2023</span></h2>
+
+A Dynamic Functional Connectivity Marker for Rumination
+<br><span style="font-size: 0.85rem !important; color: #555;">
+Jung-Woo Kim, Jessica R. Andrews-Hanna, Hedwig Eisenbarth, <b>Byeol Kim Lux</b>, Hong Ji Kim, Elizabeth A. Reynolds Losin, Martin Lindquist, Tor D. Wager, Choong-Wan Woo, 
+<i>In press as of Apr 2023</i></span>
+
 <h2><span style="font-size: 1.5rem !important; color: #548733;">2022</span></h2>
 
 <p id="2022_Kim">When self comes to a wandering mind: Brain representations and affective dynamics of spontaneous thought 
@@ -27,12 +34,6 @@ share-title: "Byeol Lux | Publication"
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1037/xge0001096" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
 <span class="__dimensions_badge_embed__" data-doi="10.1037/xge0001096" data-style="small_circle" style="display: inline-block;"></span></p>
 
-<h2><span style="font-size: 1.5rem !important; color: #8ec669;">In press</span></h2>
-
-A Dynamic Functional Connectivity Marker for Rumination
-<br><span style="font-size: 0.85rem !important; color: #555;">
-Jung-Woo Kim, Jessica R. Andrews-Hanna, Hedwig Eisenbarth, <b>Byeol Kim Lux</b>, Hong Ji Kim, Elizabeth A. Reynolds Losin, Martin Lindquist, Tor D. Wager, Choong-Wan Woo, 
-<i>In press as of Apr 2023</i></span>
 
 <h2><span style="font-size: 1.5rem !important; color: #8ec669;">Under review</span></h2>
 Spontaneous Thought Dynamics as a Signature of Positive and Negative Affectivity
