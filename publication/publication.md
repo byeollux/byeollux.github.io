@@ -14,10 +14,23 @@ share-title: "Byeol Lux | Publication"
 
 <h2><span style="font-size: 1.5rem !important; color: #548733;">2023</span></h2>
 
-A Dynamic Functional Connectivity Marker for Rumination
+A Dorsomedial Prefrontal Cortex-based Dynamic Functional Connectivity Model of Rumination
 <br><span style="font-size: 0.85rem !important; color: #555;">
-Jung-Woo Kim, Jessica R. Andrews-Hanna, Hedwig Eisenbarth, <b>Byeol Kim Lux</b>, Hong Ji Kim, Elizabeth A. Reynolds Losin, Martin Lindquist, Tor D. Wager, Choong-Wan Woo, 
-<i>In press as of Apr 2023</i></span>
+Jung-Woo Kim, Jessica R. Andrews-Hanna, Hedwig Eisenbarth, <b>Byeol Kim Lux</b>, Hong Ji Kim, Eunjin Lee, Martin Lindquist, Elizabeth A. Reynolds Losin, Tor D. Wager, Choong-Wan Woo, 
+<i>Accepted, Nature Communications</i></span>
+
+Spontaneous Thought Dynamics as a Signature of Positive and Negative Affectivity
+<br><span style="font-size: 0.85rem !important; color: #555;">
+Eunjin Lee, <b>Byeol Kim Lux<sup>m,c</sup></b>, Jihoon Han, Sung-Ha Lee, Suhwan Gim, Incheol Choi, Choong-Wan Woo, <i>under review</i></span>
+ 
+Getting Personal: Brain Decoding of Spontaneous Thought Using Personal Narratives
+<br><span style="font-size: 0.85rem !important; color: #555;">
+Hong Ji Kim, <b>Byeol Kim Lux</b>, Emily S. Finn, Choong-Wan Woo, <a href="https://www.biorxiv.org/content/10.1101/2023.05.12.540141v1">bioRxiv</a></span>
+
+Bodily maps of spontaneous thought
+<br><span style="font-size: 0.85rem !important; color: #555;">
+Hyemin Shin, <b>Byeol Kim Lux<sup>m, c</sup></b>, Hong Ji Kim, Choong-Wan Woo, <i>in prep</i></span>
+
 
 <h2><span style="font-size: 1.5rem !important; color: #548733;">2022</span></h2>
 
@@ -35,19 +48,8 @@ Jung-Woo Kim, Jessica R. Andrews-Hanna, Hedwig Eisenbarth, <b>Byeol Kim Lux</b>,
 <span class="__dimensions_badge_embed__" data-doi="10.1037/xge0001096" data-style="small_circle" style="display: inline-block;"></span></p>
 
 
-<h2><span style="font-size: 1.5rem !important; color: #8ec669;">Under review</span></h2>
-Spontaneous Thought Dynamics as a Signature of Positive and Negative Affectivity
-<br><span style="font-size: 0.85rem !important; color: #555;">
-Eunjin Lee, <b>Byeol Kim Lux<sup>m,c</sup></b>, Jihoon Han, Sung-Ha Lee, Suhwan Gim, Incheol Choi, Choong-Wan Woo, <i>in prep</i></span>
- 
 <h2><span style="font-size: 1.5rem !important; color: #8ec669;">In preparation</span></h2>
-Getting Personal: Brain Decoding of Spontaneous Thought Using Personal Narratives
-<br><span style="font-size: 0.85rem !important; color: #555;">
-Hong Ji Kim, <b>Byeol Kim Lux</b>, Emily Finn, Choong-Wan Woo, <i>submitted</i></span>
-
-Bodily maps of spontaneous thought
-<br><span style="font-size: 0.85rem !important; color: #555;">
-Hyemin Shin, <b>Byeol Kim Lux<sup>m, c</sup></b>, Hong Ji Kim, Choong-Wan Woo, <i>in prep</i></span>
+<!-- <h2><span style="font-size: 1.5rem !important; color: #8ec669;">Under review</span></h2> -->
 
 (Working title) Understanding the spontaneous mind with natural language processing and network modeling
 <br><span style="font-size: 0.85rem !important; color: #555;">
