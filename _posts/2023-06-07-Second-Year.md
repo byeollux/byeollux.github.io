@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Reflections on my Second Year and Exciting Research Projects
-subtitle: A Journey of Accomplishments and Milestones
+title: Reflections on my Second Year
+subtitle: A Journey of Milestones
 thumbnail-img: /assets/img/20230607_1.jpg
 cover-img: /assets/img/20230607_cover.jpg
 share-img: /assets/img/20230607_cover.jpg
