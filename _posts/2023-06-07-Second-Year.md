@@ -19,15 +19,19 @@ Where do I begin? First, the IMENSA (IMmune, Empathic, and Neural responses to S
 ⬆︎ Thanks to this project, I had to learn how to run immunoassay for the first time in my life... 
 
 In addition, I had the opportunity to present a poster at the Society for Neuroscience conference held in San Diego in November 2022. Interestingly, during my preparation for this, I unexpectedly embarked on my second project: investigating the human Parabrachial Nucleus-Amygdala pathway, called as the PABRANA project. I was fortunate to continue the remarkable work initiated by Phil Kragel, a former postdoc in our lab and now an assistant professor at Emory University. This project has been incredibly exciting and has allowed me to delve deeply into animal pathway studies. Moreover, I was grateful to receive an outstanding research award from the Association of Korean Neuroscientists at SfN.
+
 <img src="/assets/img/20230607_pabrana.JPG" width="600"/><br> 
 ⬆︎ 2023 Society for Neuroscience poster
 
 Upon my return from SfN, I began my first experience as a teaching assistant during the winter term (January to early March 2023). In March, I tackled the specialist written exam, which involved reading and analyzing 70 articles provided by three specialist committes. This milestone marked a significant accomplishment in my second year of Ph.D. studies.
 
-During the spring term (mid-March to early June 2023), I undertook the demanding task of TAing for most challenging course in PBS: System Neurosciences. Yeah, it was undoubtedly a tough journey... but I'm relieved that it has come to an end.  
+During the spring term (mid-March to early June 2023), I undertook the demanding task of TAing for most challenging course in PBS: System Neurosciences. Yeah, it was undoubtedly a tough journey... but I'm relieved that it has come to an end. 
+
 <img src="/assets/img/20230607_TAing.jpg" width="600"/><br> 
 ⬆︎ Sheep's brain dissection during TAing
+
 Also, second year phd students should give 15 min specialist presentation about what they have done and their ongoing research. I did my best and it went well. Touched another milestone. 
+
 <img src="/assets/img/20230607_specialist.jpg" width="600"/><br> 
 ⬆︎ Specialist presentation
 
