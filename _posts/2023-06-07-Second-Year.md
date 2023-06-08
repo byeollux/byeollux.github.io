@@ -35,4 +35,6 @@ Also, second year phd students should give 15 min specialist presentation about 
 <img src="/assets/img/20230607_specialist.jpg" width="600"/><br> 
 ⬆︎ Specialist presentation
 
-With TAing, coursework, and specialist work now behind me in this spring term, I take great pride in successfully accomplishing these tasks. Additionally, I am eagerly awaiting the results of a journal review for the FAST-web paper, and I am almost ready to submit another paper on bodily maps. Surviving through numerous milestones and hardships this year has been truly exhilarating.
+With TAing, coursework, and specialist work now behind me in this spring term, I take great pride in successfully accomplishing these tasks. Additionally, I am eagerly awaiting the results of a journal review for the FAST-web paper, and I am almost ready to submit another paper on bodily maps. Finally, I had the opportunity to give an <a href="https://blog.naver.com/usembassyseoul/223116195996">interview</a> with the United States Ambassador to Korea, discussing the unique experience of pursuing a Ph.D. as an international student with the support of the Fulbright scholarship.
+
+Surviving through numerous milestones and hardships this year has been truly exhilarating. :)
