@@ -11,10 +11,9 @@ As my second year comes to an end, with only the summer term left, I can't help 
 
 Where do I begin? First, the IMENSA (IMmune, Empathic, and Neural responses to Suffering Animals) team successfully completed data collection over a span of 10 months, from February 2022 to November 2022. The experiment consisted of two day sessions, each involving fMRI scanning, behavioral tasks, self-report questionnaires, and two blood draws. We recruited 99 participants and collected 4 blood samples from 75 participants. This extensive and unique dataset encompasses various modalities, including fMRI data, autonomic data, behavioral responses, and immunnoassay data. I must express my gratitude to Melanie Kos, our post-bac RA, and David Ward, our undergraduate RA, for their exceptional work in data collection. Completing this ambitious and multi-modal dataset within 10 months is a significant achievement, made possible by our incredible teamwork. I eagerly anticipate the forthcoming results from further analysis. 
 
-<img src="/assets/img/20230607_imensa1.jpg" width="400"/><br> 
+<img src="/assets/img/20230607_imensa1.jpg" width="400"/><img src="/assets/img/20230607_imensa2.jpg" width="400"/><br> 
 Last day of IMENSA data collection. David Ward and Melanie Kos
-<img src="/assets/img/20230607_imensa2.jpg" width="400"/><br> 
-Celebration after the experiment!
+
 <img src="/assets/img/20230607_imensa3.jpg" width="400"/><br> 
 Thanks to this project, I had to learn how to run immunoassay for the first time in my life... 
 
