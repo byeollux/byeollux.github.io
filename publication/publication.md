@@ -19,7 +19,7 @@ Design and field trial of EmotionFrame: exploring self-journaling experiences in
 Sangsu Jang, Kyung-Ryong Lee, Geonil Goh, Dohee Kim, Gahui Yun, Nanum Kim, <b>Byeol Kim Lux</b>, Choong-Wan Woo, Hyungsook Kim, Young-Woo Park. (2023). <i>Human-Computer Interaction</i>, 1-26. https://doi.org/10.1080/07370024.2023.2219259; published: 06 Jun 2023
 <a href="https://doi.org/10.1080/07370024.2023.2219259">Human-Computer Interaction</a>
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1080/07370024.2023.2219259" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
-<span class="__dimensions_badge_embed__" data-doi="10.1080/07370024.2023.2219259" data-style="small_circle" style="display: inline-block;"></span></p>
+<span class="__dimensions_badge_embed__" data-doi="10.1080/07370024.2023.2219259" data-style="small_circle" style="display: inline-block;"></span>
 
 A Dorsomedial Prefrontal Cortex-based Dynamic Functional Connectivity Model of Rumination
 <br><span style="font-size: 0.85rem !important; color: #555;">
@@ -37,6 +37,9 @@ Bodily maps of spontaneous thought
 <br><span style="font-size: 0.85rem !important; color: #555;">
 Hyemin Shin, <b>Byeol Kim Lux<sup>m, c</sup></b>, Hong Ji Kim, Choong-Wan Woo, <i>in prep</i></span>
 
+(Working title) Understanding the spontaneous mind with natural language processing and network modeling
+<br><span style="font-size: 0.85rem !important; color: #555;">
+Jihoon Han, <b>Byeol Kim Lux<sup>m,c</sup></b>, Eunjin Lee, Yong-Seok Yoo, Choong-Wan Woo, <i>in prep</i></span>
 
 <h2><span style="font-size: 1.5rem !important; color: #548733;">2022</span></h2>
 
@@ -54,12 +57,9 @@ Hyemin Shin, <b>Byeol Kim Lux<sup>m, c</sup></b>, Hong Ji Kim, Choong-Wan Woo, <
 <span class="__dimensions_badge_embed__" data-doi="10.1037/xge0001096" data-style="small_circle" style="display: inline-block;"></span></p>
 
 
-<h2><span style="font-size: 1.5rem !important; color: #8ec669;">In preparation</span></h2>
+<!-- <h2><span style="font-size: 1.5rem !important; color: #8ec669;">In preparation</span></h2> -->
 <!-- <h2><span style="font-size: 1.5rem !important; color: #8ec669;">Under review</span></h2> -->
 
-(Working title) Understanding the spontaneous mind with natural language processing and network modeling
-<br><span style="font-size: 0.85rem !important; color: #555;">
-Jihoon Han, <b>Byeol Kim Lux<sup>m,c</sup></b>, Eunjin Lee, Yong-Seok Yoo, Choong-Wan Woo, <i>in prep</i></span>
 
 
 
