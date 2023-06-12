@@ -14,10 +14,16 @@ share-title: "Byeol Lux | Publication"
 
 <h2><span style="font-size: 1.5rem !important; color: #548733;">2023</span></h2>
 
+Design and field trial of EmotionFrame: exploring self-journaling experiences in homes for archiving personal feelings about daily events
+<br><span style="font-size: 0.85rem !important; color: #555;">
+Sangsu Jang, Kyung-Ryong Lee, Geonil Goh, Dohee Kim, Gahui Yun, Nanum Kim, <b>Byeol Kim Lux</b>, Choong-Wan Woo, Hyungsook Kim, Young-Woo Park. (2023). <i>Human-Computer Interaction</i>, 1-26. https://doi.org/10.1080/07370024.2023.2219259; published: 06 Jun 2023
+<a href="https://doi.org/10.1080/07370024.2023.2219259">Human-Computer Interaction</a>
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1080/07370024.2023.2219259" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
+<span class="__dimensions_badge_embed__" data-doi="10.1080/07370024.2023.2219259" data-style="small_circle" style="display: inline-block;"></span></p>
+
 A Dorsomedial Prefrontal Cortex-based Dynamic Functional Connectivity Model of Rumination
 <br><span style="font-size: 0.85rem !important; color: #555;">
-Jung-Woo Kim, Jessica R. Andrews-Hanna, Hedwig Eisenbarth, <b>Byeol Kim Lux</b>, Hong Ji Kim, Eunjin Lee, Martin Lindquist, Elizabeth A. Reynolds Losin, Tor D. Wager, Choong-Wan Woo, 
-<i>Accepted, Nature Communications</i></span>
+Jung-Woo Kim, Jessica R. Andrews-Hanna, Hedwig Eisenbarth, <b>Byeol Kim Lux</b>, Hong Ji Kim, Eunjin Lee, Martin Lindquist, Elizabeth A. Reynolds Losin, Tor D. Wager, Choong-Wan Woo. (2023). <i>In press, Nature Communications</i></span>
 
 Spontaneous Thought Dynamics as a Signature of Positive and Negative Affectivity
 <br><span style="font-size: 0.85rem !important; color: #555;">
