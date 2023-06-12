@@ -44,11 +44,11 @@ Jihoon Han, <b>Byeol Kim Lux<sup>m,c</sup></b>, Eunjin Lee, Yong-Seok Yoo, Choon
 <h2><span style="font-size: 1.5rem !important; color: #548733;">2022</span></h2>
 
 <p id="2022_Kim">When self comes to a wandering mind: Brain representations and affective dynamics of spontaneous thought 
-<br><span style="font-size: 0.85rem !important; color: #555;"> <b>Byeol Kim</b>, Jessica R. Andrews-Hanna, Jihoon Han, Eunjin Lee, Choong-Wan Woo. (2022). <i>Science Advances</i>, 8 (35), eabn8616 (1-16). https://doi.org/10.1126/sciadv.abn8616; published: Aug 31 2022 
-<a href="https://www.science.org/doi/10.1126/sciadv.abn8616">Science Advances</a> | <a href="/pdfs/2022_Kim.pdf">PDF</a> | <a href="/pdfs/2022_Kim_sm.pdf">Supplementary Materials</a> | <a href="https://zenodo.org/record/6825023">Code</a></span><br>  
+<br><span style="font-size: 0.85rem !important; color: #555;"> <b>Byeol Kim</b>, Jessica R. Andrews-Hanna, Jihoon Han, Eunjin Lee, Choong-Wan Woo. (2022). <i><a href="https://www.science.org/doi/10.1126/sciadv.abn8616">Science Advances</a></i>, 8 (35), eabn8616 (1-16). https://doi.org/10.1126/sciadv.abn8616; published: Aug 31 2022 </span>
+<a href="/pdfs/2022_Kim.pdf">PDF</a> | <a href="/pdfs/2022_Kim_sm.pdf">Supplementary Materials</a> | <a href="https://zenodo.org/record/6825023">Code</a><br>  
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1126/sciadv.abn8616" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
-<span class="__dimensions_badge_embed__" data-doi="10.1126/sciadv.abn8616" data-style="small_circle" style="display: inline-block;"></span></p>
-<iframe width="600" height="338" src="https://www.youtube.com/embed/0Q24pSkgmbE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<span class="__dimensions_badge_embed__" data-doi="10.1126/sciadv.abn8616" data-style="small_circle" style="display: inline-block;"></span>
+<iframe width="600" height="338" src="https://www.youtube.com/embed/0Q24pSkgmbE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 <p id="2022_AndrewsHanna">The conceptual building blocks of everyday thought: Tracking the emergence and dynamics of ruminative and nonruminative thinking
 <br><span style="font-size: 0.85rem !important; color: #555;"> Jessica R. Andrews-Hanna, Choong-Wan Woo, Ramsey Wilcox, Hedwid Eisenbarth, <b>Byeol Kim</b>, Jihoon Han, Elizabeth A. Reynolds Losin, Tor D. Wager. (2022). <i>Journal of Experimental Psychology: General</i>, 151(3), 628–642. https://doi.org/10.1037/xge0001096; online first publication: 9 Sep 2021
