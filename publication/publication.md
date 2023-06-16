@@ -14,7 +14,7 @@ Published under the name Byeol Kim (2021-2022) and Byeol Kim Lux (2023-) </br>
 
 <p id="2023_Lee">Spontaneous Thought Dynamics as a Signature of Positive and Negative Affectivity
 <br><span style="font-size: 0.85rem !important; color: #555;">
-Eunjin Lee, <b>Byeol Kim Lux<sup>m,c</sup></b>, Jihoon Han, Sung-Ha Lee, Suhwan Gim, Incheol Choi, Choong-Wan Woo, <i>under review</i></span></p>
+Eunjin Lee, <b>Byeol Kim Lux<sup>c,m</sup></b>, Jihoon Han, Sung-Ha Lee, Suhwan Gim, Incheol Choi, Choong-Wan Woo, <i>under review</i></span></p>
  
 <p id="2023_HJ_Kim">Getting Personal: Brain Decoding of Spontaneous Thought Using Personal Narratives
 <br><span style="font-size: 0.85rem !important; color: #555;">
@@ -22,11 +22,11 @@ Hong Ji Kim, <b>Byeol Kim Lux</b>, Emily S. Finn, Choong-Wan Woo, <a href="https
 
 <p id="2023_Shin">Bodily maps of spontaneous thought
 <br><span style="font-size: 0.85rem !important; color: #555;">
-Hyemin Shin, <b>Byeol Kim Lux<sup>m, c</sup></b>, Hong Ji Kim, Choong-Wan Woo, <i>in prep</i></span></p>
+Hyemin Shin, <b>Byeol Kim Lux<sup>c,m</sup></b>, Hong Ji Kim, Choong-Wan Woo, <i>in prep</i></span></p>
 
 <p id="2024_Han">(Working title) Understanding the spontaneous mind with natural language processing and network modeling
 <br><span style="font-size: 0.85rem !important; color: #555;">
-Jihoon Han, <b>Byeol Kim Lux<sup>m,c</sup></b>, Eunjin Lee, Yong-Seok Yoo, Choong-Wan Woo, <i>in prep</i></span></p>
+Jihoon Han, <b>Byeol Kim Lux<sup>c,m</sup></b>, Eunjin Lee, Yong-Seok Yoo, Choong-Wan Woo, <i>in prep</i></span></p>
 
 
 <h2><span style="font-size: 1.5rem !important; color: #548733;">2023</span></h2>
