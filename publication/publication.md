@@ -9,20 +9,7 @@ share-title: "Byeol Lux | Publication"
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 <span style="font-size: .9rem !important; color: #555;">
-<sup>m</sup> mentoring project
-<br><sup>c</sup> co-first author  </span>
-
-<h2><span style="font-size: 1.5rem !important; color: #548733;">2023</span></h2>
-
-<p id="2023_Jang">Design and field trial of EmotionFrame: exploring self-journaling experiences in homes for archiving personal feelings about daily events
-<br><span style="font-size: 0.85rem !important; color: #555;">
-Sangsu Jang, Kyung-Ryong Lee, Geonil Goh, Dohee Kim, Gahui Yun, Nanum Kim, <b>Byeol Kim Lux</b>, Choong-Wan Woo, Hyungsook Kim, Young-Woo Park. (2023). <i><a href="https://doi.org/10.1080/07370024.2023.2219259">Human-Computer Interaction</a></i>, 1-26. Published: 06 Jun 2023 </span>
-<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1080/07370024.2023.2219259" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
-<span class="__dimensions_badge_embed__" data-doi="10.1080/07370024.2023.2219259" data-style="small_circle" style="display: inline-block;"></span></p>
-
-<p id="2023_JW_Kim">A Dorsomedial Prefrontal Cortex-based Dynamic Functional Connectivity Model of Rumination
-<br><span style="font-size: 0.85rem !important; color: #555;">
-Jung-Woo Kim, Jessica R. Andrews-Hanna, Hedwig Eisenbarth, <b>Byeol Kim Lux</b>, Hong Ji Kim, Eunjin Lee, Martin Lindquist, Elizabeth A. Reynolds Losin, Tor D. Wager, Choong-Wan Woo. (2023). <i>In press, Nature Communications</i></span></p>
+<sup>c</sup> co-first author, <sup>m</sup> mentoring project </span>
 
 <p id="2023_Lee">Spontaneous Thought Dynamics as a Signature of Positive and Negative Affectivity
 <br><span style="font-size: 0.85rem !important; color: #555;">
@@ -39,6 +26,22 @@ Hyemin Shin, <b>Byeol Kim Lux<sup>m, c</sup></b>, Hong Ji Kim, Choong-Wan Woo, <
 <p id="2024_Han">(Working title) Understanding the spontaneous mind with natural language processing and network modeling
 <br><span style="font-size: 0.85rem !important; color: #555;">
 Jihoon Han, <b>Byeol Kim Lux<sup>m,c</sup></b>, Eunjin Lee, Yong-Seok Yoo, Choong-Wan Woo, <i>in prep</i></span></p>
+
+
+<h2><span style="font-size: 1.5rem !important; color: #548733;">2023</span></h2>
+
+<p id="2023_JW_Kim">A Dorsomedial Prefrontal Cortex-based Dynamic Functional Connectivity Model of Rumination
+<br><span style="font-size: 0.85rem !important; color: #555;">
+Jungwoo Kim, Jessica R. Andrews-Hanna, Hedwig Eisenbarth, <b>Byeol Kim Lux</b>, Hong Ji Kim, Eunjin Lee, Martin Lindquist, Elizabeth A. Reynolds Losin, Tor D. Wager, Choong-Wan Woo. (2023). <i><a href="https://doi.org/10.1038/s41467-023-39142-9">Nature Communications</a></i>, 14, 3540. Published: 15 June 2023</span>
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-023-39142-9" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-023-39142-9" data-style="small_circle" style="display: inline-block;"></span></p>
+
+<p id="2023_Jang">Design and field trial of EmotionFrame: exploring self-journaling experiences in homes for archiving personal feelings about daily events
+<br><span style="font-size: 0.85rem !important; color: #555;">
+Sangsu Jang, Kyung-Ryong Lee, Geonil Goh, Dohee Kim, Gahui Yun, Nanum Kim, <b>Byeol Kim Lux</b>, Choong-Wan Woo, Hyungsook Kim, Young-Woo Park. (2023). <i><a href="https://doi.org/10.1080/07370024.2023.2219259">Human-Computer Interaction</a></i>, 1-26. Published: 06 June 2023 </span>
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1080/07370024.2023.2219259" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
+<span class="__dimensions_badge_embed__" data-doi="10.1080/07370024.2023.2219259" data-style="small_circle" style="display: inline-block;"></span></p>
+
 
 <h2><span style="font-size: 1.5rem !important; color: #548733;">2022</span></h2>
 
