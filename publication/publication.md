@@ -32,7 +32,7 @@ Jihoon Han, <b>Byeol Kim Lux<sup>m,c</sup></b>, Eunjin Lee, Yong-Seok Yoo, Choon
 
 <p id="2023_JW_Kim">A Dorsomedial Prefrontal Cortex-based Dynamic Functional Connectivity Model of Rumination
 <br><span style="font-size: 0.85rem !important; color: #555;">
-Jungwoo Kim, Jessica R. Andrews-Hanna, Hedwig Eisenbarth, <b>Byeol Kim Lux</b>, Hong Ji Kim, Eunjin Lee, Martin Lindquist, Elizabeth A. Reynolds Losin, Tor D. Wager, Choong-Wan Woo. (2023). <i><a href="https://doi.org/10.1038/s41467-023-39142-9">Nature Communications</a></i>, 14, 3540. Published: 15 June 2023</span>
+Jungwoo Kim, Jessica R. Andrews-Hanna, Hedwig Eisenbarth, <b>Byeol Kim Lux</b>, Hong Ji Kim, Eunjin Lee, Martin Lindquist, Elizabeth A. Reynolds Losin, Tor D. Wager, Choong-Wan Woo. (2023). <i><a href="https://doi.org/10.1038/s41467-023-39142-9">Nature Communications</a></i>, 14, 3540. Published: 15 June 2023. <a href="/pdfs/2023_JWKim.pdf">PDF</a></span>
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-023-39142-9" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
 <span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-023-39142-9" data-style="small_circle" style="display: inline-block;"></span></p>
 
