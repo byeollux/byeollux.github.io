@@ -9,8 +9,8 @@ share-title: "Byeol Lux | Publication"
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 <span style="font-size: .9rem !important; color: #555;">
-Published under the name Byeol Kim (2021-2022) and Byeol Kim Lux (2023-) </br>
-<sup>c</sup> co-first author, <sup>m</sup> mentoring project</span>
+Published under the name Byeol Kim (2021-2022) and Byeol Kim Lux (2023-) 
+<br><sup>c</sup> co-first author, <sup>m</sup> mentoring project</span>
 
 <p id="2023_Lee">Spontaneous Thought Dynamics as a Signature of Positive and Negative Affectivity
 <br><span style="font-size: 0.85rem !important; color: #555;">
