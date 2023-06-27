@@ -12,6 +12,8 @@ share-title: "Byeol Lux | Publication"
 Published under the name Byeol Kim (2021-2022) and Byeol Kim Lux (2023-)
 <br><sup>c</sup> co-first author, <sup>m</sup> mentoring project</span>
 
+<h2><span style="font-size: 1.2rem !important; color: #e8c600;">In preparation, Under review, Preprint</span></h2>
+
 <p id="2023_Lee">Spontaneous Thought Dynamics as a Signature of Positive and Negative Affectivity
 <br><span style="font-size: 0.85rem !important; color: #555;">
 Eunjin Lee, <b>Byeol Kim Lux<sup>c,m</sup></b>, Jihoon Han, Sung-Ha Lee, Suhwan Gim, Incheol Choi, Choong-Wan Woo, <i>under review</i></span></p>
