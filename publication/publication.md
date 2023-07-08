@@ -24,7 +24,7 @@ Hong Ji Kim, <b>Byeol Kim Lux</b>, Emily S. Finn, Choong-Wan Woo, <a href="https
 
 <p id="2023_Shin">Bodily maps of spontaneous thought
 <br><span style="font-size: 0.85rem !important; color: #555;">
-Hyemin Shin, <b>Byeol Kim Lux<sup>c,m</sup></b>, Hong Ji Kim, Choong-Wan Woo, <i>in prep</i></span></p>
+Hyemin Shin, <b>Byeol Kim Lux<sup>c,m</sup></b>, Hong Ji Kim, Choong-Wan Woo, <a href="https://www.biorxiv.org/content/10.1101/2023.07.06.547921v1">bioRxiv</a></span></p>
 
 <p id="2024_Han">(Working title) Understanding the spontaneous mind with natural language processing and network modeling
 <br><span style="font-size: 0.85rem !important; color: #555;">
