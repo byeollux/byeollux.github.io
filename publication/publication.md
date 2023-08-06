@@ -9,7 +9,7 @@ share-title: "Byeol Lux | Publication"
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 <span style="font-size: .9rem !important; color: #555;">
-Published under the name Byeol Kim (2021-2022) and Byeol Kim Lux (2023-)
+Published under the name Byeol Kim (2021) and Byeol Kim Lux (2022-)
 <br><sup>c</sup> co-first author, <sup>m</sup> mentoring project</span>
 
 <h2><span style="font-size: 1.2rem !important; color: #e8c600;">In preparation, Under review, Preprint</span></h2>
@@ -48,10 +48,10 @@ Sangsu Jang, Kyung-Ryong Lee, Geonil Goh, Dohee Kim, Gahui Yun, Nanum Kim, <b>By
 
 <h2><span style="font-size: 1.5rem !important; color: #548733;">2022</span></h2>
 
-<p id="2022_Kim">When self comes to a wandering mind: Brain representations and affective dynamics of spontaneous thought 
+<p id="2022_Lux">When self comes to a wandering mind: Brain representations and affective dynamics of spontaneous thought 
 <br><span style="font-size: 0.85rem !important; color: #555;"> 
-<b>Byeol Kim</b>, Jessica R. Andrews-Hanna, Jihoon Han, Eunjin Lee, Choong-Wan Woo. (2022). <i><a href="https://www.science.org/doi/10.1126/sciadv.abn8616">Science Advances</a></i>, 8 (35), eabn8616 (1-16). Published: Aug 31 2022.
-<a href="/pdfs/2022_Kim.pdf">PDF</a> | <a href="/pdfs/2022_Kim_sm.pdf">Supplementary Materials</a> | <a href="https://zenodo.org/record/6825023">Code</a></span>
+<b>Byeol Kim Lux</b>, Jessica R. Andrews-Hanna, Jihoon Han, Eunjin Lee, Choong-Wan Woo. (2022). <i><a href="https://www.science.org/doi/10.1126/sciadv.abn8616">Science Advances</a></i>, 8 (35), eabn8616 (1-16). Published: Aug 31 2022.
+<a href="/pdfs/2022_sciadv.abn8616.pdf">PDF</a> | <a href="/pdfs/2022_sciadv.abn8616_sm.pdf">Supplementary Materials</a> | <a href="https://zenodo.org/record/6825023">Code</a></span>
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1126/sciadv.abn8616" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
 <span class="__dimensions_badge_embed__" data-doi="10.1126/sciadv.abn8616" data-style="small_circle" style="display: inline-block;"></span>
 <iframe width="600" height="338" src="https://www.youtube.com/embed/0Q24pSkgmbE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
