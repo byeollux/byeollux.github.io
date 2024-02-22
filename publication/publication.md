@@ -18,9 +18,9 @@ Published under the name Byeol Kim (2021) and Byeol Kim Lux (2022-)
 <br><span style="font-size: 0.85rem !important; color: #555;">
 Eunjin Lee, <b>Byeol Kim Lux<sup>c,m</sup></b>, Jihoon Han, Sung-Ha Lee, Suhwan Gim, Incheol Choi, Choong-Wan Woo, <i>under review</i></span></p>
  
-<p id="2023_HJ_Kim">Getting Personal: Brain Decoding of Spontaneous Thought Using Personal Narratives
+<p id="2023_HJ_Kim">Brain Decoding of Spontaneous Thought: Predictive Modeling of Self-relevance and Valence Using Personal Narratives
 <br><span style="font-size: 0.85rem !important; color: #555;">
-Hong Ji Kim, <b>Byeol Kim Lux</b>, Emily S. Finn, Choong-Wan Woo, <a href="https://www.biorxiv.org/content/10.1101/2023.05.12.540141v1">bioRxiv</a></span></p>
+Hong Ji Kim, <b>Byeol Kim Lux</b>, Emily S. Finn, Choong-Wan Woo, <i>In Press at PNAS</i> <a href="https://www.biorxiv.org/content/10.1101/2023.05.12.540141v1">bioRxiv</a></span></p>
 
 <p id="2023_Shin">Bodily maps of spontaneous thought
 <br><span style="font-size: 0.85rem !important; color: #555;">
