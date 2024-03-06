@@ -13,10 +13,13 @@ css: "/assets/css/aboutme.css"
 <span class="fa fa-star about-icon"></span>
 Byeol's <a href="/assets/docs/CV_byeol_public.pdf"><strong>CV</strong></a> | 
 <a href="https://neurotree.org/neurotree/tree.php?pid=743705"><strong>Neurotree</strong></a> | 
-<a href="https://scholar.google.com/citations?user=d4jThIcAAAAJ&hl=en&oi=ao"><strong>Google Scholar</strong></a><br>
-<a href="https://translate.google.com/?sl=en&tl=ko&text=Byeol&op=translate"><strong>How my name is pronounced</strong></a>
+<a href="https://scholar.google.com/citations?user=d4jThIcAAAAJ&hl=en&oi=ao"><strong>Google Scholar</strong></a>
 </p>
 
+<p class="about-text">
+<span class="fa fa-headphones"></span>
+<a href="https://translate.google.com/?sl=en&tl=ko&text=Byeol&op=translate"><strong>How my name is pronounced</strong></a>
+</p>
 
 <p class="about-text">
 <span class="fa fa-brain about-icon"></span>
@@ -30,8 +33,8 @@ B.S. in astronomy and B.A. psychology at <a href="https://www.yonsei.ac.kr/en_sc
 
 <p class="about-text">
 <span class="fa fa-laptop-code about-icon"></span> Programming skills
-<ul><li> Language :  Matlab (proficient), Python (intermediate), Unix (basic), HTML (basic)</li>
-<li> fMRI neuroimaging analysis tools :  fMRIprep, tedana, afni, SPM, <a href="https://canlab.github.io/">CANlab tools</a>, FSL</li>
+<ul><li> Language :  Matlab (proficient), Python (intermediate), Unix (intermediate), HTML (basic)</li>
+<li> fMRI neuroimaging analysis tools :  SPM, <a href="https://canlab.github.io/">CANlab tools</a>, FSL, fMRIprep, afni, tedana</li>
 <li> Experimental psychology tools :  Psychtoolbox, PsychoPy </li>
 <li> Statistics tools :  R, SPSS </li></ul>
 </p>
@@ -40,7 +43,7 @@ B.S. in astronomy and B.A. psychology at <a href="https://www.yonsei.ac.kr/en_sc
 <span class="fa fa-globe-americas about-icon"></span>
 Born, raised, and earned Bachelor's degree in Seoul, South Korea<br>
 Earned Master's degree in Suwon, South Korea<br>
-Currently pursuing Ph.D. in Hanover, New Hampshire, USA.
+Currently Ph.D. student in Hanover, New Hampshire, USA.
 </p>
 
 
