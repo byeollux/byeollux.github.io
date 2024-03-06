@@ -12,14 +12,15 @@ css: "/assets/css/aboutme.css"
 <p class="about-text">
 <span class="fa fa-star about-icon"></span>
 Byeol's <a href="/assets/docs/CV_byeol_public.pdf"><strong>CV</strong></a> | 
-<a href="https://neurotree.org/neurotree/tree.php?pid=743705"><strong>Neurotree</strong></a>  | 
-<a href="https://scholar.google.co.kr/citations?user=jyd6OWwAAAAJ&hl=en"><strong>Google Scholar</strong></a>
+<a href="https://neurotree.org/neurotree/tree.php?pid=743705"><strong>Neurotree</strong></a> | 
+<a href="https://scholar.google.com/citations?user=d4jThIcAAAAJ&hl=en&oi=ao"><strong>Google Scholar</strong></a> | 
+<a href="https://translate.google.com/?sl=en&tl=ko&text=Byeol&op=translate"><strong>How my name is pronounced</strong></a>
 </p>
 
 
 <p class="about-text">
 <span class="fa fa-brain about-icon"></span>
-Currently, a Ph.D. student in the <a href="https://sites.dartmouth.edu/canlab">Cognitive and Affective Neuroscience lab</a> led by <a href="https://scholar.google.co.kr/citations?user=OZHkBcYAAAAJ&hl=en&oi=ao">Dr. Tor D. Wager</a>, at <a href="https://pbs.dartmouth.edu/">Psychological and Brain Sciences program</a>, <a href="https://home.dartmouth.edu/">Dartmouth College</a>
+Currently, a Ph.D. student in the <a href="https://sites.dartmouth.edu/canlab">Cognitive and Affective Neuroscience lab</a> led by <a href="https://scholar.google.com/citations?user=OZHkBcYAAAAJ&hl=en&oi=ao">Dr. Tor D. Wager</a>, at <a href="https://pbs.dartmouth.edu/">Psychological and Brain Sciences program</a>, <a href="https://home.dartmouth.edu/">Dartmouth College</a>
 </p>
 
 <p class="about-text">
