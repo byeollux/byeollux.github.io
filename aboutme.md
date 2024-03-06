@@ -17,8 +17,8 @@ Byeol's <a href="/assets/docs/CV_byeol_public.pdf"><strong>CV</strong></a> |
 </p>
 
 <p class="about-text">
-<span class="fa fa-headphones"></span>
-<a href="https://translate.google.com/?sl=en&tl=ko&text=Byeol&op=translate"><strong>How my name is pronounced</strong></a>
+<span class="fa fa-headphones-icon"></span>
+<a href="https://translate.google.com/?sl=en&tl=ko&text=Byeol&op=translate">How my name is pronounced</a>
 </p>
 
 <p class="about-text">
