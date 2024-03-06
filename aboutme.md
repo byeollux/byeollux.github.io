@@ -13,7 +13,7 @@ css: "/assets/css/aboutme.css"
 <span class="fa fa-star about-icon"></span>
 Byeol's <a href="/assets/docs/CV_byeol_public.pdf"><strong>CV</strong></a> | 
 <a href="https://neurotree.org/neurotree/tree.php?pid=743705"><strong>Neurotree</strong></a> | 
-<a href="https://scholar.google.com/citations?user=d4jThIcAAAAJ&hl=en&oi=ao"><strong>Google Scholar</strong></a> | 
+<a href="https://scholar.google.com/citations?user=d4jThIcAAAAJ&hl=en&oi=ao"><strong>Google Scholar</strong></a><br>
 <a href="https://translate.google.com/?sl=en&tl=ko&text=Byeol&op=translate"><strong>How my name is pronounced</strong></a>
 </p>
 
