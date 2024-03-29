@@ -29,9 +29,11 @@ Jihoon Han, <b>Byeol Kim Lux<sup>c,m</sup></b>, Eunjin Lee, Yong-Seok Yoo, Choon
 
 <h2><span style="font-size: 1.5rem !important; color: #548733;">2024</span></h2>
 
-<p id="2023_HJ_Kim">Brain Decoding of Spontaneous Thought: Predictive Modeling of Self-relevance and Valence Using Personal Narratives
+<p id="2024_HJ_Kim">Brain decoding of spontaneous thought: Predictive modeling of self-relevance and valence using personal narratives
 <br><span style="font-size: 0.85rem !important; color: #555;">
-Hong Ji Kim, <b>Byeol Kim Lux</b>, Eunjin Lee, Emily S. Finn, Choong-Wan Woo, <i>In Press at PNAS</i> <a href="https://www.biorxiv.org/content/10.1101/2023.05.12.540141v1">bioRxiv</a></span></p>
+Hong Ji Kim, <b>Byeol Kim Lux</b>, Eunjin Lee, Emily S. Finn, Choong-Wan Woo. (2024) <i><a href="https://www.pnas.org/doi/10.1073/pnas.2401959121">PNAS</a></i>, 121, 14. Published: 28 March 2024. <a href="/pdfs/2024_HJKim.pdf">PDF</a></span>
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1073/pnas.2401959121" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
+<span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.2401959121" data-style="small_circle" style="display: inline-block;"></span></p>
 
 <h2><span style="font-size: 1.5rem !important; color: #548733;">2023</span></h2>
 
