@@ -16,12 +16,12 @@ Published under the name Byeol Kim (2021) and Byeol Kim Lux (2022-)
 
 <p id="2023_Lee">Spontaneous Thought Dynamics as a Signature of Positive and Negative Affectivity
 <br><span style="font-size: 0.85rem !important; color: #555;">
-Eunjin Lee, <b>Byeol Kim Lux<sup>c,m</sup></b>, Jihoon Han, Sung-Ha Lee, Suhwan Gim, Incheol Choi, Choong-Wan Woo, <a href="https://osf.io/preprints/psyarxiv/5cxd9">PsyArXiv</a></span></p> 
+<b>Byeol Kim Lux<sup>c,m</sup></b>, Eunjin Lee<sup>c</sup>, Jihoon Han, Sung-Ha Lee, Suhwan Gim, Incheol Choi, Choong-Wan Woo, <a href="https://osf.io/preprints/psyarxiv/5cxd9">PsyArXiv</a></span></p> 
 
 
 <p id="2023_Shin">Bodily maps of spontaneous thought
 <br><span style="font-size: 0.85rem !important; color: #555;">
-Hyemin Shin, <b>Byeol Kim Lux<sup>c,m</sup></b>, Hong Ji Kim, Choong-Wan Woo, <a href="https://www.biorxiv.org/content/10.1101/2023.07.06.547921v1">bioRxiv</a></span></p>
+Hyemin Shin<sup>c</sup>, <b>Byeol Kim Lux<sup>c,m</sup></b>, Hong Ji Kim, Choong-Wan Woo, <a href="https://www.biorxiv.org/content/10.1101/2023.07.06.547921v1">bioRxiv</a></span></p>
 
 <p id="2024_Han">(Working title) Understanding the spontaneous mind with natural language processing and network modeling
 <br><span style="font-size: 0.85rem !important; color: #555;">
@@ -31,7 +31,7 @@ Jihoon Han, <b>Byeol Kim Lux<sup>c,m</sup></b>, Eunjin Lee, Yong-Seok Yoo, Choon
 
 <p id="2024_HJ_Kim">Brain decoding of spontaneous thought: Predictive modeling of self-relevance and valence using personal narratives
 <br><span style="font-size: 0.85rem !important; color: #555;">
-Hong Ji Kim, <b>Byeol Kim Lux</b>, Eunjin Lee, Emily S. Finn, Choong-Wan Woo. (2024) <i><a href="https://www.pnas.org/doi/10.1073/pnas.2401959121">PNAS</a></i>, 121, 14. Published: 28 March 2024. <a href="/pdfs/2024_HJKim.pdf">PDF</a></span>
+Hong Ji Kim, <b>Byeol Kim Lux</b>, Eunjin Lee, Emily S. Finn, Choong-Wan Woo. (2024). <i><a href="https://www.pnas.org/doi/10.1073/pnas.2401959121">PNAS</a></i>, 121, 14. Published: 28 March 2024. <a href="/pdfs/2024_HJKim.pdf">PDF</a></span>
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1073/pnas.2401959121" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
 <span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.2401959121" data-style="small_circle" style="display: inline-block;"></span></p>
 
