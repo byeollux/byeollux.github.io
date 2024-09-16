@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Navigating the PhD "Threenager" Stage
-subtitle: A Journey to Finding My True Self
+subtitle: Year Four has arrvied!
 thumbnail-img: /assets/img/20240324_skiing.png
 cover-img: /assets/img/20240607_doublerainbow.png
 share-img: /assets/img/20240607_doublerainbow.png
