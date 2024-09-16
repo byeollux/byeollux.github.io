@@ -25,4 +25,4 @@ This year, I started learning new things and embraced Upper Valley life even mor
 
 While navigating challenges in my research journey, I lost both friend and a family member. I've had time to reflect on my first two years of my PhD, my journey from college, and my life as a whole. I've discovered new aspects of communciation and thought deeply about who I am. I've realized how important it is to understand myself better in order to communicate more clearly with otheres. Moreover, I've had the opportunity to reflect on what my partner and I have achieved over the last ten years, both in my career and personal life. Now, I've reached a point where I want to savor every step of my journey, rather than letting frustration and anxiety fueled by uncertainty drive me forward. 
 
-<img src="/assets/img/2024_collage.jpg" width="600"/><br> 
+<img src="/assets/img/2024_collage.jpg" width="900"/><br> 
