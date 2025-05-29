@@ -11,7 +11,7 @@ css: "/assets/css/aboutme.css"
 
 <p class="about-text">
 <span class="fa fa-star about-icon"></span>
-Byeol's <a href="/assets/docs/CV_byeol_public.pdf"><strong>CV</strong></a> | 
+Byeol's <a href="/assets/docs/CV_byeolkimlux_public.pdf"><strong>CV</strong></a> | 
 <a href="https://neurotree.org/neurotree/tree.php?pid=743705"><strong>Neurotree</strong></a> | 
 <a href="https://scholar.google.com/citations?user=d4jThIcAAAAJ&hl=en&oi=ao"><strong>Google Scholar</strong></a>
 </p>
@@ -33,17 +33,17 @@ B.S. in astronomy and B.A. psychology at <a href="https://www.yonsei.ac.kr/en_sc
 
 <p class="about-text">
 <span class="fa fa-laptop-code about-icon"></span> Programming skills
-<ul><li> Language :  Matlab (proficient), Python (intermediate), Unix (intermediate), HTML (basic)</li>
-<li> fMRI neuroimaging analysis tools :  SPM, <a href="https://canlab.github.io/">CANlab tools</a>, FSL, fMRIprep, afni, tedana</li>
-<li> Experimental psychology tools :  Psychtoolbox, PsychoPy </li>
-<li> Statistics tools :  R, SPSS </li></ul>
+<ul><li> Language :  Matlab (proficient), Python (intermediate), Unix (intermediate), HTML (intermediate), JavaScript (Basic)</li>
+<li> fMRI neuroimaging analysis tools :  SPM, <a href="https://canlab.github.io/">CANlab tools</a>, FSL, fMRIprep, afni, tedana, GIFT</li>
+<li> Experimental psychology tools :  Psychtoolbox, PsychoPy, Pavlovia </li>
+<li> Statistics tools :  R, SPSS, Jamovi </li></ul>
 </p>
 
 <p class="about-text">
 <span class="fa fa-globe-americas about-icon"></span>
 Born, raised, and earned Bachelor's degree in Seoul, South Korea<br>
 Earned Master's degree in Suwon, South Korea<br>
-Currently Ph.D. student in Hanover, New Hampshire, USA.
+Currently Ph.D. candidate in Hanover, New Hampshire, USA.
 </p>
 
 
