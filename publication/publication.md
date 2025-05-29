@@ -2,7 +2,7 @@
 layout: page
 title: Publication
 permalink: /publication/
-subtitle: 『what you imagine, you create』
+subtitle: 『What you imagine, you create』
 share-title: "Byeol Lux | Publication"
 ---
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
