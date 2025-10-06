@@ -23,17 +23,17 @@ Byeol's <a href="/assets/docs/CV_byeolkimlux_public.pdf"><strong>CV</strong></a>
 
 <p class="about-text">
 <span class="fa fa-brain about-icon"></span>
-Currently, a Ph.D. student in <a href="https://sites.dartmouth.edu/canlab">Cognitive and Affective Neuroscience lab</a> led by <a href="https://scholar.google.com/citations?user=OZHkBcYAAAAJ&hl=en&oi=ao">Dr. Tor D. Wager</a>, at <a href="https://pbs.dartmouth.edu/">Psychological and Brain Sciences program</a>, <a href="https://home.dartmouth.edu/">Dartmouth College</a>
+Currently, a Ph.D. student and Fulbright fellow in <a href="https://sites.dartmouth.edu/canlab">Cognitive and Affective Neuroscience lab</a> led by <a href="https://scholar.google.com/citations?user=OZHkBcYAAAAJ&hl=en&oi=ao">Tor D. Wager</a>, at <a href="https://pbs.dartmouth.edu/">Psychological and Brain Sciences program</a>, <a href="https://home.dartmouth.edu/">Dartmouth College in U.S.A.</a>
 </p>
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-B.S. in astronomy and B.A. psychology at <a href="https://www.yonsei.ac.kr/en_sc/">Yonsei University</a><br>M.S. in biomedical engineering at <a href="https://www.skku.edu/eng/">Sungkyunkwan University</a> (P.I. <a href="https://cocoanlab.github.io/">Choong-Wan Woo</a>) in South Korea. 
+B.S. in astronomy and B.A. in psychology at <a href="https://www.yonsei.ac.kr/en_sc/">Yonsei University</a><br>M.S. in biomedical engineering at <a href="https://www.skku.edu/eng/">Sungkyunkwan University</a> (P.I. <a href="https://cocoanlab.github.io/">Choong-Wan Woo</a>) in South Korea. 
 </p>
 
 <p class="about-text">
 <span class="fa fa-laptop-code about-icon"></span> Programming skills
-<ul><li> Language :  Matlab (proficient), Python (intermediate), Unix (intermediate), HTML (intermediate), JavaScript (Basic)</li>
+<ul><li> Language :  Matlab, Python, Unix, HTML, JavaScript</li>
 <li> fMRI neuroimaging analysis tools :  SPM, <a href="https://canlab.github.io/">CANlab tools</a>, FSL, fMRIprep, afni, tedana, GIFT</li>
 <li> Experimental psychology tools :  Psychtoolbox, PsychoPy, Pavlovia </li>
 <li> Statistics tools :  R, SPSS, Jamovi </li></ul>
