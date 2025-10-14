@@ -26,7 +26,7 @@ Byeol's <a href="/assets/docs/CV_byeolkimlux_public.pdf"><strong>CV</strong></a>
 <p class="about-text">
 <span style="font-size: 1rem !important;">
 <span class="fa fa-brain about-icon"></span>
-Currently, a Ph.D. student and Fulbright fellow in <a href="https://sites.dartmouth.edu/canlab">Cognitive and Affective Neuroscience lab</a> led by <a href="https://scholar.google.com/citations?user=OZHkBcYAAAAJ&hl=en&oi=ao">Tor D. Wager</a>, at <a href="https://pbs.dartmouth.edu/">Psychological and Brain Sciences program</a>, <a href="https://home.dartmouth.edu/">Dartmouth College in U.S.A.</a>
+Currently, a Ph.D. student and Fulbright fellow in <a href="https://sites.dartmouth.edu/canlab">Cognitive and Affective Neuroscience lab</a> led by <a href="https://scholar.google.com/citations?user=OZHkBcYAAAAJ&hl=en&oi=ao">Tor D. Wager</a>, at <a href="https://pbs.dartmouth.edu/">Psychological and Brain Sciences program</a>, <a href="https://home.dartmouth.edu/">Dartmouth College in USA.</a>
 </span></p>
 
 <p class="about-text">
