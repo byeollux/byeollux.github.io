@@ -12,5 +12,5 @@ For more detail about me, see <a href="/aboutme"><b>ABOUTME</b></a>.
 <span style="font-size: 1rem !important;"><b>Research interest</b>: affecitve neuroscience, health, brain and body interaction, stress, mindset, resilience, individual differences, translational science</span>  
 
 
-<center><img src="/assets/img/20250921.jpg" width="300" align="center" /></center>
+<center><img src="/assets/img/20250921.jpg" width="350" align="center" /></center>
 <!-- <center><img src="/assets/img/byeollogo.png" width="400" align="center" /></center> -->
