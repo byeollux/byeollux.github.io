@@ -6,12 +6,12 @@ share-title: "Byeol Kim Lux | About me"
 share-description: "Byeol's biography"
 css: "/assets/css/aboutme.css"
 ---
-<span style="font-size: 1rem !important;"> 
 
 <div id="aboutme-section">
 
 <p class="about-text">
 <span class="fa fa-star about-icon"></span>
+<span style="font-size: 1rem !important;"> 
 Byeol's <a href="/assets/docs/CV_byeolkimlux_public.pdf"><strong>CV</strong></a> | 
 <a href="https://neurotree.org/neurotree/tree.php?pid=743705"><strong>Neurotree</strong></a> | 
 <a href="https://scholar.google.com/citations?user=d4jThIcAAAAJ&hl=en&oi=ao"><strong>Google Scholar</strong></a>
