@@ -3,7 +3,7 @@ layout: page
 title: Photo
 permalink: /photo/
 subtitle: 『Drawing with light』 
-share-title: "Byeol Lux | Photo"
+share-title: "Byeol Kim Lux | Photo"
 ---
 
 <span style="font-size: 1.5rem !important; color: #BD0026;"><b>2022</b></span>

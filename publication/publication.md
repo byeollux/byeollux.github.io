@@ -3,7 +3,7 @@ layout: page
 title: Publication
 permalink: /publication/
 subtitle: 『What you imagine, you create』
-share-title: "Byeol Lux | Publication"
+share-title: "Byeol Kim Lux | Publication"
 ---
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
