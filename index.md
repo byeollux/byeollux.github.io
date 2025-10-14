@@ -13,5 +13,5 @@ For more detail about me, see <a href="/aboutme"><b>ABOUTME</b></a>.
 
 
 <center><img src="/assets/img/20250921.jpg" width="350" align="center" /></center>
-<span style="font-size: 1rem !important;">At Mt. Washington, NH, USA, Sept, 2025</span>  
+<span style="font-size: .5rem !important;">At Mt. Washington, NH, USA, Sept, 2025</span>  
 <!-- <center><img src="/assets/img/byeollogo.png" width="400" align="center" /></center> -->
