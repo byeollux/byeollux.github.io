@@ -10,12 +10,12 @@ css: "/assets/css/aboutme.css"
 <div id="aboutme-section">
 
 <p class="about-text">
+<span style="font-size: 1rem !important;"></span>
 <span class="fa fa-star about-icon"></span>
-<span style="font-size: 1rem !important;"> 
 Byeol's <a href="/assets/docs/CV_byeolkimlux_public.pdf"><strong>CV</strong></a> | 
 <a href="https://neurotree.org/neurotree/tree.php?pid=743705"><strong>Neurotree</strong></a> | 
 <a href="https://scholar.google.com/citations?user=d4jThIcAAAAJ&hl=en&oi=ao"><strong>Google Scholar</strong></a>
-</p>
+</p></span>
 
 <p class="about-text">
 <span class="fa fa-headphones about-icon"></span>
@@ -46,7 +46,7 @@ Born, raised, and earned Bachelor's degree in Seoul, South Korea<br>
 Earned Master's degree in Suwon, South Korea<br>
 Currently Ph.D. candidate in Hanover, New Hampshire, USA.
 </p>
-</span>
+
 
 <!--
 <p class="about-text">
