@@ -19,7 +19,7 @@ Byeol's <a href="/assets/docs/CV_byeolkimlux_public.pdf"><strong>CV</strong></a>
 <p class="about-text">
 <span class="fa fa-headphones about-icon"></span>
 <a href="https://translate.google.com/?sl=en&tl=ko&text=Byeol&op=translate">How my name is pronounced</a>
-</p>
+: Bi-yawl / Bi-yôl</p>
 
 <p class="about-text">
 <span class="fa fa-brain about-icon"></span>
