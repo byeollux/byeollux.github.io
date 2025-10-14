@@ -36,7 +36,9 @@ B.S. in astronomy and B.A. in psychology at <a href="https://www.yonsei.ac.kr/en
 </span></p>
 
 <p class="about-text">
-<span class="fa fa-laptop-code about-icon"></span> <span style="font-size: 1rem !important;"> Programming skills
+<span style="font-size: 1rem !important;">
+<span class="fa fa-laptop-code about-icon"></span> Programming skills </span>
+<span style="font-size: 1rem !important;">
 <ul><li> Language :  Matlab, Python, Unix, HTML, JavaScript</li>
 <li> fMRI neuroimaging analysis tools :  SPM, <a href="https://canlab.github.io/">CANlab tools</a>, FSL, fMRIprep, afni, tedana, GIFT</li>
 <li> Experimental psychology tools :  Psychtoolbox, PsychoPy, Pavlovia </li>
