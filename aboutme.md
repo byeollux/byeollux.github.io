@@ -14,13 +14,13 @@ css: "/assets/css/aboutme.css"
 <span style="font-size: 1rem !important;"> 
 Byeol's <a href="/assets/docs/CV_byeolkimlux_public.pdf"><strong>CV</strong></a> | 
 <a href="https://neurotree.org/neurotree/tree.php?pid=743705"><strong>Neurotree</strong></a> | 
-<a href="https://scholar.google.com/citations?user=d4jThIcAAAAJ&hl=en&oi=ao"><strong>Google Scholar</strong></a>
+<a href="https://scholar.google.com/citations?user=d4jThIcAAAAJ&hl=en&oi=ao"><strong>Google Scholar</strong></a></span>
 </p>
 
 <p class="about-text">
 <span class="fa fa-headphones about-icon"></span>
 <a href="https://translate.google.com/?sl=en&tl=ko&text=Byeol&op=translate">How my name is pronounced</a>
-: Bi-yawl / Bi-yôl</p>
+: bi-yawl / bi-yôl</p>
 
 <p class="about-text">
 <span class="fa fa-brain about-icon"></span>
