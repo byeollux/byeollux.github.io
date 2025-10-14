@@ -21,7 +21,9 @@ Byeol's <a href="/assets/docs/CV_byeolkimlux_public.pdf"><strong>CV</strong></a>
 <span style="font-size: 1rem !important;">
 <span class="fa fa-headphones about-icon"></span>
 <a href="https://translate.google.com/?sl=en&tl=ko&text=Byeol&op=translate">How my name is pronounced</a>
-: bi-yawl / bi-yôl</span></p>
+: bi-yawl / bi-yôl<br>
+Byeol means 'star' in Korean
+</span></p>
 
 <p class="about-text">
 <span style="font-size: 1rem !important;">
