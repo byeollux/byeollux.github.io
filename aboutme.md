@@ -34,7 +34,7 @@ Currently, a Ph.D. student and Fulbright fellow in <a href="https://sites.dartmo
 <p class="about-text">
 <span style="font-size: 1rem !important;">
 <span class="fa fa-graduation-cap about-icon"></span>
-B.S. in astronomy and B.A. in psychology at <a href="https://www.yonsei.ac.kr/en_sc/">Yonsei University</a><br>M.S. in biomedical engineering at <a href="https://www.skku.edu/eng/">Sungkyunkwan University</a> (P.I. <a href="https://cocoanlab.github.io/">Choong-Wan Woo</a>) in South Korea. 
+B.S. in astronomy and B.A. in psychology at <a href="https://www.yonsei.ac.kr/en_sc/">Yonsei University</a><br>M.S. in biomedical engineering at <a href="https://www.skku.edu/eng/">Sungkyunkwan University</a> (P.I. <a href="https://cocoanlab.github.io/">Choong-Wan (Wani) Woo</a>) in South Korea. 
 </span></p>
 
 <p class="about-text">
