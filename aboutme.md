@@ -6,6 +6,7 @@ share-title: "Byeol Kim Lux | About me"
 share-description: "Byeol's biography"
 css: "/assets/css/aboutme.css"
 ---
+<span style="font-size: 1rem !important;"> 
 
 <div id="aboutme-section">
 
