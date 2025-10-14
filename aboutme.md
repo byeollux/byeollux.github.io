@@ -10,12 +10,12 @@ css: "/assets/css/aboutme.css"
 <div id="aboutme-section">
 
 <p class="about-text">
-<span style="font-size: 1rem !important;"></span>
+<span style="font-size: 1rem !important;">
 <span class="fa fa-star about-icon"></span>
 Byeol's <a href="/assets/docs/CV_byeolkimlux_public.pdf"><strong>CV</strong></a> | 
 <a href="https://neurotree.org/neurotree/tree.php?pid=743705"><strong>Neurotree</strong></a> | 
 <a href="https://scholar.google.com/citations?user=d4jThIcAAAAJ&hl=en&oi=ao"><strong>Google Scholar</strong></a>
-</p>
+</span></p>
 
 <p class="about-text">
 <span class="fa fa-headphones about-icon"></span>
