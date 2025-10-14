@@ -27,9 +27,11 @@ and language-based computational method
 <br><span style="font-size: 0.85rem !important; color: #555;">
 Jihoon Han, <b>Byeol Kim Lux</b>, Eunjin Lee, Yong-Seok Yoo, Choong-Wan Woo, <i>Submitted</i></span></p>
 
-<p id="2025_Shin">Are you thinking about friends or money? Spontaneous thought contents reveal the value of social relationships for happiness
+<h2><span style="font-size: 1.5rem !important; color: #548733;">2025</span></h2>
+
+<p id="2025_Shin">Happier individuals generate more spontaneous thoughts about friends and value relationships over money
 <br><span style="font-size: 0.85rem !important; color: #555;">
-Won-Gyo Shin, Jeongyeol Ahn, Kyoung Whan Choe, Hyeseung Lee, Jihoon Han, Eunjin Lee, <b>Byeol Kim Lux</b>, Choong-Wan Woo, Incheol Choi, Sunhae Sul, <i>Submitted</i> <a href="https://osf.io/6y2fa/download">OSF</a></span></p>
+Won-Gyo Shin, Jeongyeol Ahn, Kyoung Whan Choe, Hyeseung Lee, Jihoon Han, Eunjin Lee, <b>Byeol Kim Lux</b>, Choong-Wan Woo, Incheol Choi, Sunhae Sul, <i>In Press, Communications Psychology</i> <a href="https://osf.io/6y2fa/download">OSF</a></span></p>
 
 <h2><span style="font-size: 1.5rem !important; color: #548733;">2024</span></h2>
 
