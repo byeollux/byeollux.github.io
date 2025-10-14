@@ -2,7 +2,7 @@
 layout: page
 title: About me
 subtitle: 『Life is about creating yourself.』 - George B. Shaw
-share-title: "Byeol Lux | About me"
+share-title: "Byeol Kim Lux | About me"
 share-description: "Byeol's biography"
 css: "/assets/css/aboutme.css"
 ---
