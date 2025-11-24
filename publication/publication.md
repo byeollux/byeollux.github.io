@@ -31,7 +31,9 @@ Jihoon Han, <b>Byeol Kim Lux</b>, Eunjin Lee, Yong-Seok Yoo, Choong-Wan Woo, <i>
 
 <p id="2025_Shin">Happier individuals generate more spontaneous thoughts about friends and value relationships over money
 <br><span style="font-size: 0.85rem !important; color: #555;">
-Won-Gyo Shin, Jeongyeol Ahn, Kyoung Whan Choe, Hyeseung Lee, Jihoon Han, Eunjin Lee, <b>Byeol Kim Lux</b>, Choong-Wan Woo, Incheol Choi, Sunhae Sul, <i>In Press, Communications Psychology</i> <a href="https://osf.io/6y2fa/download">OSF</a></span></p>
+Won-Gyo Shin, Jeongyeol Ahn, Kyoung Whan Choe, Hyeseung Lee, Jihoon Han, Eunjin Lee, <b>Byeol Kim Lux</b>, Choong-Wan Woo, Incheol Choi, Sunhae Sul, <i><a href="https://www.nature.com/articles/s44271-025-00341-3">Communications Psychology</a></i>, 3(1), 162. Published: 20 Nov. 2025. <a href="/pdfs/2025_WGShin.pdf">PDF</a></span>
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s44271-025-00341-3" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s44271-025-00341-3" data-style="small_circle" style="display: inline-block;"></span></p>
 
 <h2><span style="font-size: 1.5rem !important; color: #548733;">2024</span></h2>
 
