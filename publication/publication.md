@@ -14,9 +14,13 @@ Published under the name Byeol Kim (2021) and Byeol Kim Lux (2022-)
 
 <h2><span style="font-size: 1.2rem !important; color: #e8c600;">In preparation, Under review, Preprint</span></h2>
 
+<p id="2026_Lux">Vicarious trauma primes innate immunity and reconfigures human brain networks
+<br><span style="font-size: 0.85rem !important; color: #555;">
+<b>Byeol Kim Lux</b>, Melanie C. Kos, David Ward, Fred W. Kolling IV, Xin Li, Claudia V. Jakubzick, Tor D. Wager, <a href="https://www.biorxiv.org/content/10.64898/2026.01.05.697785v1">bioRxiv</a>, <i>Under review</i></span></p> 
+
 <p id="2023_Lee">Spontaneous Thought Dynamics as a Signature of Positive and Negative Affectivity
 <br><span style="font-size: 0.85rem !important; color: #555;">
-<b>Byeol Kim Lux<sup>c,m</sup></b>, Eunjin Lee<sup>c</sup>, Jihoon Han, Sung-Ha Lee, Suhwan Gim, Incheol Choi, Choong-Wan Woo, <a href="https://osf.io/preprints/psyarxiv/5cxd9">PsyArXiv</a></span></p> 
+<b>Byeol Kim Lux<sup>c,m</sup></b>, Eunjin Lee<sup>c</sup>, Jihoon Han, Sung-Ha Lee, Suhwan Gim, Incheol Choi, Choong-Wan Woo, <a href="https://osf.io/preprints/psyarxiv/5cxd9_v2">PsyArXiv</a></span></p>, <i>Under review</i></span></p>  
 
 <p id="2023_Shin">Bodily maps of spontaneous thought
 <br><span style="font-size: 0.85rem !important; color: #555;">
