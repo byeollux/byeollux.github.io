@@ -31,7 +31,7 @@ Jihoon Han<sup>*</sup>, <b>Byeol Kim Lux<sup>*</sup></b>, Eunjin Lee, Yong-Seok 
 
 <p id="2023_Lee">Spontaneous thought dynamics as a signature of positive and negative affectivity
 <br><span style="font-size: 0.85rem !important; color: #555;">
-<b>Byeol Kim Lux<sup>* ✉</sup></b>, Eunjin Lee<sup>*</sup>, Jihoon Han, Sung-Ha Lee, Suhwan Gim, Incheol Choi, Choong-Wan Woo<sup>co</sup>, <i><a href="https://www.nature.com/articles/s44271-026-00498-5">Communications Psychology</a></i>, <i>In Press</i></span></p>  
+<b>Byeol Kim Lux<sup>* ✉</sup></b>, Eunjin Lee<sup>*</sup>, Jihoon Han, Sung-Ha Lee, Suhwan Gim, Incheol Choi, Choong-Wan Woo<sup>✉</sup>, <i><a href="https://www.nature.com/articles/s44271-026-00498-5">Communications Psychology</a></i>, <i>In Press</i></span></p>  
 
 <h2><span style="font-size: 1.5rem !important; color: #548733;">2025</span></h2>
 
