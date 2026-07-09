@@ -10,7 +10,7 @@ share-title: "Byeol Kim Lux | Publication"
 
 <span style="font-size: .9rem !important; color: #555;">
 Published under the name Byeol Kim (2021) and Byeol Kim Lux (2022-)
-<br><sup>cf</sup> co-first author, <sup>co</sup> corresponding author, <sup>m</sup> mentoring project</span>
+<br><sup>*</sup> co-first author, <sup>✉</sup> corresponding author
 
 <h2><span style="font-size: 1.2rem !important; color: #e8c600;">In preparation</span></h2>
 
@@ -20,18 +20,18 @@ Published under the name Byeol Kim (2021) and Byeol Kim Lux (2022-)
 
 <p id="2023_Shin">Bodily maps of spontaneous thought
 <br><span style="font-size: 0.85rem !important; color: #555;">
-Hyemin Shin<sup>c</sup>, <b>Byeol Kim Lux<sup>c,m</sup></b>, Hong Ji Kim, Choong-Wan Woo, <a href="https://www.biorxiv.org/content/10.1101/2023.07.06.547921v1">bioRxiv</a></span></p>
+Hyemin Shin<sup>*</sup>, <b>Byeol Kim Lux<sup>*</sup></b>, Hong Ji Kim, Choong-Wan Woo, <a href="https://www.biorxiv.org/content/10.1101/2023.07.06.547921v1">bioRxiv</a></span></p>
 
 <p id="2024_Han">Modeling spontaneous thought: A network-
 and language-based computational method
 <br><span style="font-size: 0.85rem !important; color: #555;">
-Jihoon Han<sup>c</sup>, <b>Byeol Kim Lux<sup>c</sup></b>, Eunjin Lee, Yong-Seok Yoo, Choong-Wan Woo, <i>Under review</i></span></p>
+Jihoon Han<sup>*</sup>, <b>Byeol Kim Lux<sup>*</sup></b>, Eunjin Lee, Yong-Seok Yoo, Choong-Wan Woo, <i>Under review</i></span></p>
 
 <h2><span style="font-size: 1.5rem !important; color: #548733;">2026</span></h2>
 
 <p id="2023_Lee">Spontaneous thought dynamics as a signature of positive and negative affectivity
 <br><span style="font-size: 0.85rem !important; color: #555;">
-<b>Byeol Kim Lux<sup>cf,co</sup></b>, Eunjin Lee<sup>cf</sup>, Jihoon Han, Sung-Ha Lee, Suhwan Gim, Incheol Choi, Choong-Wan Woo<sup>co</sup>, <a href="https://www.nature.com/articles/s44271-026-00498-5">Communications Psychology</a>, <i>In Press</i></span></p>  
+<b>Byeol Kim Lux<sup>* ✉</sup></b>, Eunjin Lee<sup>*</sup>, Jihoon Han, Sung-Ha Lee, Suhwan Gim, Incheol Choi, Choong-Wan Woo<sup>co</sup>, <i><a href="https://www.nature.com/articles/s44271-026-00498-5">Communications Psychology</a></i>, <i>In Press</i></span></p>  
 
 <h2><span style="font-size: 1.5rem !important; color: #548733;">2025</span></h2>
 
