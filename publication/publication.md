@@ -49,6 +49,12 @@ Hong Ji Kim, <b>Byeol Kim Lux</b>, Eunjin Lee, Emily S. Finn, Choong-Wan Woo. (2
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1073/pnas.2401959121" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
 <span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.2401959121" data-style="small_circle" style="display: inline-block;"></span></p>
 
+<p id="2023_Jang">Design and field trial of EmotionFrame: exploring self-journaling experiences in homes for archiving personal feelings about daily events
+<br><span style="font-size: 0.85rem !important; color: #555;">
+Sangsu Jang, Kyung-Ryong Lee, Geonil Goh, Dohee Kim, Gahui Yun, Nanum Kim, <b>Byeol Kim Lux</b>, Choong-Wan Woo, Hyungsook Kim, Young-Woo Park. (2024). <i><a href="https://doi.org/10.1080/07370024.2023.2219259">Human-Computer Interaction</a></i>, 1-26. Published online: 06 June 2023. <a href="/pdfs/2023_Jang.pdf">PDF</a> | <a href="https://ipd.unist.ac.kr/works/emotionframe/">EmotionFrame</a></span>
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1080/07370024.2023.2219259" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
+<span class="__dimensions_badge_embed__" data-doi="10.1080/07370024.2023.2219259" data-style="small_circle" style="display: inline-block;"></span></p>
+
 <h2><span style="font-size: 1.5rem !important; color: #548733;">2023</span></h2>
 
 <p id="2023_JW_Kim">A Dorsomedial Prefrontal Cortex-based Dynamic Functional Connectivity Model of Rumination
@@ -56,13 +62,6 @@ Hong Ji Kim, <b>Byeol Kim Lux</b>, Eunjin Lee, Emily S. Finn, Choong-Wan Woo. (2
 Jungwoo Kim, Jessica R. Andrews-Hanna, Hedwig Eisenbarth, <b>Byeol Kim Lux</b>, Hong Ji Kim, Eunjin Lee, Martin Lindquist, Elizabeth A. Reynolds Losin, Tor D. Wager, Choong-Wan Woo. (2023). <i><a href="https://doi.org/10.1038/s41467-023-39142-9">Nature Communications</a></i>, 14, 3540. Published: 15 June 2023. <a href="/pdfs/2023_JWKim.pdf">PDF</a></span>
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-023-39142-9" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
 <span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-023-39142-9" data-style="small_circle" style="display: inline-block;"></span></p>
-
-<p id="2023_Jang">Design and field trial of EmotionFrame: exploring self-journaling experiences in homes for archiving personal feelings about daily events
-<br><span style="font-size: 0.85rem !important; color: #555;">
-Sangsu Jang, Kyung-Ryong Lee, Geonil Goh, Dohee Kim, Gahui Yun, Nanum Kim, <b>Byeol Kim Lux</b>, Choong-Wan Woo, Hyungsook Kim, Young-Woo Park. (2023). <i><a href="https://doi.org/10.1080/07370024.2023.2219259">Human-Computer Interaction</a></i>, 1-26. Published: 06 June 2023. <a href="/pdfs/2023_Jang.pdf">PDF</a> | <a href="https://ipd.unist.ac.kr/works/emotionframe/">EmotionFrame</a></span>
-<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1080/07370024.2023.2219259" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
-<span class="__dimensions_badge_embed__" data-doi="10.1080/07370024.2023.2219259" data-style="small_circle" style="display: inline-block;"></span></p>
-
 
 <h2><span style="font-size: 1.5rem !important; color: #548733;">2022</span></h2>
 
