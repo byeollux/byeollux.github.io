@@ -10,7 +10,7 @@ share-title: "Byeol Kim Lux | Photo"
 
 <span style="font-size: 1rem !important; color: #555;"> Second year at Hanover with friends. Still adjusting... </span>
 <br><br>
-<center><img src="/photo/img/2023_collage.jpg" width="800" align="center" /></center>
+<center><img src="/photo/img/2023_collage.png" width="800" align="center" /></center>
 <br>
 
 <span style="font-size: 1.5rem !important; color: #BD0026;"><b>2022</b></span>
