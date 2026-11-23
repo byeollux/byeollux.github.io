@@ -12,7 +12,7 @@ For more detail about me, see <a href="/aboutme"><b>ABOUTME</b></a>.
 <span style="font-size: 1rem !important;"><b>Research interest</b>: affecitve neuroscience, health psychology, brain and body interaction, stress, mindset, resilience, individual differences, translational science</span>  
 
 
-<center><img src="/assets/img/20261120.jpg" width="400" align="center" /></center>
+<center><img src="/assets/img/20261120.jpeg" width="400" align="center" /></center>
 <div style="text-align: center;">
   <span style="font-size: .7rem !important;">At Washinton D.C., USA, Nov. 2026</span>
 </div>
